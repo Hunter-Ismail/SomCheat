@@ -120,6 +120,43 @@
     "file": "js.txt"
   },
   {
+    "lua": {
+      "finished_tasks_progress": "0",
+      "unfinished_tasks_progress": "100",
+      "done_len": 0,
+      "empty_len": 11,
+      "done_indices": [],
+      "empty_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "tasks": [
+        "TASK: Variables",
+        "TASK: Data Types",
+        "TASK: Conditionals",
+        "TASK: Loops",
+        "TASK: Functions",
+        "TASK: Tables",
+        "TASK: Metatables",
+        "TASK: Metamethods",
+        "TASK: Error Handling",
+        "TASK: Modules",
+        "TASK: File Handling"
+      ]
+    },
+    "id": 2,
+    "file": "lua.txt"
+  },
+  {
     "ts": {
       "finished_tasks_progress": "0",
       "unfinished_tasks_progress": "100",
@@ -201,7 +238,7 @@
         "TASK: TS Events"
       ]
     },
-    "id": 2,
+    "id": 3,
     "file": "ts.txt"
   }
 ]
